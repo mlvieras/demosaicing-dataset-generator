@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+noise_estimator
+!noise_estimator/estimator.py
